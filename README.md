@@ -4,7 +4,7 @@
 <br>
 <p>  - 👀 I'm interested in learning new technologies all the
        time and how to make them and create innovations from each 
-      one that I'm interested in</p>
+      one</p><p> that I'm interested in</p>
 <br>
 <p> -🌱 I’m currently learning React  </p>
 <br>
