@@ -3,10 +3,8 @@
 <p><h1>    👋 Hi, I’m Bruno Costa Oliveira   </h1></p>
 <br>
 <p>    - 👀 I'm interested in learning new technologies all </p>
-<br>
-<p> - the time and how to make them and create </p>   
-<br>
-<p> - innovations from each one that I'm interested in</p>
+            the time and how to make them and create    
+          innovations from each one that I'm interested in</p>
 <br>
 <p> - 🌱 I’m currently learning React  </p>
 <br>
